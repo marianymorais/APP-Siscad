@@ -1,0 +1,859 @@
+{
+  "2016/1": [
+    {
+      "medias": {
+        "MA : (PF * 0.9) + (AT*0.1)": "6.39",
+        "AT : ATIVIDADES": "5.94",
+        "PO : PROVA OPTATIVA": "0.00",
+        "PF : PROJETO FINAL": "6.43"
+      },
+      "codigo": "0709.000.410-5 ",
+      "notas": {
+        "MA : (PF * 0.9) + (AT*0.1)": "8.9",
+        "AT : ATIVIDADES": "4.5",
+        "PO : PROVA OPTATIVA": "0.0",
+        "PF : PROJETO FINAL": "9.4"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5839739",
+      "nome": "TÓPICOS EM SISTEMAS DE INFORMAÇÃO I AP 68  "
+    },
+    {
+      "medias": {
+        "A1 : ARTIGO 1": "5.10",
+        "P2 : SEMINÁRIO PARTE II": "6.28",
+        "A2 : ARTIGO 2": "4.90",
+        "P3 : SEMINÁRIO PARTE 3": "6.14",
+        "MA : ( (A1+P1)/2 + (A2+P2)/2 + (A3+P3)/2)/3": "5.47",
+        "P1 : SEMINÁRIO PARTE 1": "5.66",
+        "A3 : ARTIGO 3": "4.70"
+      },
+      "codigo": "0709.000.356-7 ",
+      "notas": {
+        "A1 : ARTIGO 1": "8.0",
+        "P2 : SEMINÁRIO PARTE II": "7.6",
+        "A2 : ARTIGO 2": "8.0",
+        "P3 : SEMINÁRIO PARTE 3": "9.6",
+        "MA : ( (A1+P1)/2 + (A2+P2)/2 + (A3+P3)/2)/3": "8.1",
+        "P1 : SEMINÁRIO PARTE 1": "8.6",
+        "A3 : ARTIGO 3": "7.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5759549",
+      "nome": "COMPUTAÇÃO E SOCIEDADE AP 68  "
+    },
+    {
+      "codigo": "0709.000.347-8 ",
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5946482",
+      "nome": "ESTÁGIO OBRIGATÓRIO I RP 136  "
+    },
+    {
+      "medias": {
+        "P2 : PROVA 2": "6.44",
+        "P1 : PROVA 1": "7.16",
+        "T2 : TRABALHO 2": "6.85",
+        "MA : (P1 * 0.3) + (P2 * 0.3) + (T1 * 0.2) + (T2 * 0.2)": "7.04",
+        "T1 : TRABALHO 1": "7.92"
+      },
+      "codigo": "0709.000.344-3 ",
+      "notas": {
+        "P2 : PROVA 2": "6.8",
+        "P1 : PROVA 1": "6.2",
+        "T2 : TRABALHO 2": "8.9",
+        "MA : (P1 * 0.3) + (P2 * 0.3) + (T1 * 0.2) + (T2 * 0.2)": "7.4",
+        "T1 : TRABALHO 1": "8.5"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5803574",
+      "nome": "INTELIGÊNCIA ARTIFICIAL AP 68  "
+    },
+    {
+      "medias": {
+        "P3 : PROVA 3": "3.18",
+        "P2 : PROVA 2": "5.22",
+        "MA : (P1 * 0.2) + (P2 * 0.3) + (P3 * 0.2) + (T1 * 0.15) + (T2 * 0.15)": "4.88",
+        "P1 : PROVA 1": "6.34",
+        "T2 : TRABALHO 2": "4.55",
+        "T1 : TRABALHO 1": "4.79"
+      },
+      "codigo": "0709.000.336-2 ",
+      "notas": {
+        "P3 : PROVA 3": "3.4",
+        "P2 : PROVA 2": "5.8",
+        "MA : (P1 * 0.2) + (P2 * 0.3) + (P3 * 0.2) + (T1 * 0.15) + (T2 * 0.15)": "6.4",
+        "P1 : PROVA 1": "9.0",
+        "T2 : TRABALHO 2": "6.0",
+        "T1 : TRABALHO 1": "8.6"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5797095",
+      "nome": "PROGRAMAÇÃO ORIENTADA A OBJETOS AP 136  "
+    },
+    {
+      "medias": {
+        "P2 : PROVA 2": "8.24",
+        "P1 : PROVA 1": "6.58",
+        "PO : PROVA OPTATIVA": "0.00",
+        "T : TRABALHO": "9.30",
+        "MA : (P1*0.3) + (P2*0.4) + (T*0.3)": "8.06"
+      },
+      "codigo": "0709.000.337-0 ",
+      "notas": {
+        "P2 : PROVA 2": "7.6",
+        "P1 : PROVA 1": "5.4",
+        "PO : PROVA OPTATIVA": "0.0",
+        "T : TRABALHO": "9.0",
+        "MA : (P1*0.3) + (P2*0.4) + (T*0.3)": "7.4"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5797096",
+      "nome": "SISTEMAS OPERACIONAIS I AP 68  "
+    }
+  ],
+  "2015/2": [
+    {
+      "medias": {
+        "P2 : PROVA 2": "6.75",
+        "P1 : PROVA 1": "6.30",
+        "T2 : TRABALHO 2": "5.93",
+        "T1 : TRABALHO 1": "7.84",
+        "MA : 0.6*((P1 + 2*P2)/3) + 0.4*((T1 + T2)/2)": "6.71"
+      },
+      "codigo": "0709.000.342-7 ",
+      "notas": {
+        "P2 : PROVA 2": "7.5",
+        "P1 : PROVA 1": "7.2",
+        "T2 : TRABALHO 2": "6.3",
+        "T1 : TRABALHO 1": "10.0",
+        "MA : 0.6*((P1 + 2*P2)/3) + 0.4*((T1 + T2)/2)": "7.7"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5679150",
+      "nome": "SISTEMAS OPERACIONAIS II AP 68  "
+    },
+    {
+      "medias": {
+        "T1 : TRABALHO PRÁTICO": "5.30",
+        "PO : PROVA OPTATIVA": "0.34",
+        "MA : ((P1+P2)/2)*0.6 + T1*0.3 + NL*0.1": "5.26",
+        "P1 : PROVA 01": "5.26",
+        "P2 : PROVA 02": "5.18",
+        "NL : NOTA DE LISTAS DE EXERCÍCIOS": "4.62"
+      },
+      "codigo": "0709.000.339-7 ",
+      "notas": {
+        "T1 : TRABALHO PRÁTICO": "7.0",
+        "PO : PROVA OPTATIVA": "0.0",
+        "MA : ((P1+P2)/2)*0.6 + T1*0.3 + NL*0.1": "6.0",
+        "P1 : PROVA 01": "4.3",
+        "P2 : PROVA 02": "7.8",
+        "NL : NOTA DE LISTAS DE EXERCÍCIOS": "2.5"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5679147",
+      "nome": "REDES DE COMPUTADORES I AP 68  "
+    },
+    {
+      "medias": {
+        "PO : AVALIAÇÃO OPTATIVA": "1.53",
+        "P1 : PRIMEIRA AVALIAÇÃO TEÓRICA": "6.73",
+        "IMP : IMPLEMENTAÇÕES": "3.65",
+        "MA : MP*0.8 + IMP*0.2": "6.52",
+        "P2 : SEGUNDA AVALIAÇÃO TEÓRICA": "7.29",
+        "MP : (P1+P2)/2": "7.23"
+      },
+      "codigo": "0709.000.341-9 ",
+      "notas": {
+        "PO : AVALIAÇÃO OPTATIVA": "6.3",
+        "P1 : PRIMEIRA AVALIAÇÃO TEÓRICA": "5.6",
+        "IMP : IMPLEMENTAÇÕES": "2.3",
+        "MA : MP*0.8 + IMP*0.2": "6.0",
+        "P2 : SEGUNDA AVALIAÇÃO TEÓRICA": "7.5",
+        "MP : (P1+P2)/2": "6.9"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5679149",
+      "nome": "ESTRUTURAS DE DADOS E PROGRAMAÇÃO I AP 68  "
+    },
+    {
+      "medias": {
+        "E : MÉDIA DAS NOTAS DOS EXERCÍCIOS": "7.75",
+        "MA : ((P1+P2)/2)*0.8 + E*0.2": "6.98",
+        "P2 : PROVA 2": "6.44",
+        "P1 : PROVA 1": "6.71",
+        "PO : PROVA OPTATIVA": "8.00"
+      },
+      "codigo": "0709.000.340-0 ",
+      "notas": {
+        "E : MÉDIA DAS NOTAS DOS EXERCÍCIOS": "7.0",
+        "MA : ((P1+P2)/2)*0.8 + E*0.2": "6.9",
+        "P2 : PROVA 2": "5.8",
+        "P1 : PROVA 1": "3.7",
+        "PO : PROVA OPTATIVA": "8.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5679148",
+      "nome": "ENGENHARIA DE SOFTWARE AP 68  "
+    },
+    {
+      "medias": {
+        "P3 : PROVA 3": "5.30",
+        "P2 : PROVA 2": "5.56",
+        "P1 : PROVA 1": "5.64",
+        "PO : PROVA OPTATIVA": "5.20",
+        "MA : 0.25*P1 + 0.25*P2 + 0.25*P3 +0.25*T": "4.89",
+        "T : TRABALHO": "2.87"
+      },
+      "codigo": "0709.000.415-6 ",
+      "notas": {
+        "P3 : PROVA 3": "7.0",
+        "P2 : PROVA 2": "8.3",
+        "P1 : PROVA 1": "5.3",
+        "PO : PROVA OPTATIVA": "0.0",
+        "MA : 0.25*P1 + 0.25*P2 + 0.25*P3 +0.25*T": "6.7",
+        "T : TRABALHO": "6.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5679151",
+      "nome": "BANCO DE DADOS II AP 68  "
+    }
+  ],
+  "2015/1": [
+    {
+      "medias": {
+        "P2 : PROVA 2": "5.32",
+        "MA : P1 * 0.35 + P2 * 0.35 + T * 0.3": "5.53",
+        "P1 : PROVA 1": "5.69",
+        "PO : PROVA OPTATIVA": "0.77",
+        "T : TRABALHO": "4.95"
+      },
+      "codigo": "0709.000.338-9 ",
+      "notas": {
+        "P2 : PROVA 2": "7.4",
+        "MA : P1 * 0.35 + P2 * 0.35 + T * 0.3": "7.0",
+        "P1 : PROVA 1": "6.3",
+        "PO : PROVA OPTATIVA": "0.0",
+        "T : TRABALHO": "7.5"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5486713",
+      "nome": "BANCO DE DADOS I AP 68  "
+    },
+    {
+      "medias": {
+        "PO : OPTATIVA": "0.00",
+        "PE : PRIMEIRA ENTREGA": "6.27",
+        "SE : SEGUNDA ENTREGA - OFICINA": "7.32",
+        "MA : 0.2*PE + 0.8*SE": "7.11"
+      },
+      "codigo": "0709.000.379-6 ",
+      "notas": {
+        "PO : OPTATIVA": "0.0",
+        "PE : PRIMEIRA ENTREGA": "10.0",
+        "SE : SEGUNDA ENTREGA - OFICINA": "10.0",
+        "MA : 0.2*PE + 0.8*SE": "10.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5529042",
+      "nome": "ESTUDO DIRIGIDO VII AP 34  "
+    },
+    {
+      "medias": {
+        "P2 : PROVA 2": "8.24",
+        "P1 : PROVA 1": "6.58",
+        "PO : PROVA OPTATIVA": "0.00",
+        "T : TRABALHO": "9.30",
+        "MA : (P1*0.3) + (P2*0.4) + (T*0.3)": "8.06"
+      },
+      "codigo": "0709.000.337-0 ",
+      "notas": {
+        "P2 : PROVA 2": "7.6",
+        "P1 : PROVA 1": "5.4",
+        "PO : PROVA OPTATIVA": "0.0",
+        "T : TRABALHO": "9.0",
+        "MA : (P1*0.3) + (P2*0.4) + (T*0.3)": "7.4"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5797096",
+      "nome": "SISTEMAS OPERACIONAIS I RN 68  "
+    },
+    {
+      "medias": {
+        "P3 : PROVA 3": "3.18",
+        "P2 : PROVA 2": "5.22",
+        "MA : (P1 * 0.2) + (P2 * 0.3) + (P3 * 0.2) + (T1 * 0.15) + (T2 * 0.15)": "4.88",
+        "P1 : PROVA 1": "6.34",
+        "T2 : TRABALHO 2": "4.55",
+        "T1 : TRABALHO 1": "4.79"
+      },
+      "codigo": "0709.000.336-2 ",
+      "notas": {
+        "P3 : PROVA 3": "3.4",
+        "P2 : PROVA 2": "5.8",
+        "MA : (P1 * 0.2) + (P2 * 0.3) + (P3 * 0.2) + (T1 * 0.15) + (T2 * 0.15)": "6.4",
+        "P1 : PROVA 1": "9.0",
+        "T2 : TRABALHO 2": "6.0",
+        "T1 : TRABALHO 1": "8.6"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5797095",
+      "nome": "PROGRAMAÇÃO ORIENTADA A OBJETOS RN 136  "
+    },
+    {
+      "medias": {
+        "P3 : TERCEIRA AVALIAÇÃO": "2.55",
+        "P1 : PRIMEIRA AVALIAÇÃO": "4.66",
+        "SUB : PROVA SUBSTITUTIVA": "7.26",
+        "P2 : SEGUNDA AVALIAÇÃO": "3.17",
+        "MA : (P1+P2+P3)/3": "3.64"
+      },
+      "codigo": "0709.000.202-1 ",
+      "notas": {
+        "P3 : TERCEIRA AVALIAÇÃO": "4.9",
+        "P1 : PRIMEIRA AVALIAÇÃO": "6.0",
+        "SUB : PROVA SUBSTITUTIVA": "6.1",
+        "P2 : SEGUNDA AVALIAÇÃO": "6.0",
+        "MA : (P1+P2+P3)/3": "6.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5486138",
+      "nome": "PROBABILIDADE E ESTATÍSTICA I AP 68  "
+    },
+    {
+      "medias": {
+        "SE : SEGUNDA ENTREGA": "8.44",
+        "PO : PROVA OPTATIVA": "0.00",
+        "PE : PRIMEIRA ENTREGA": "7.32",
+        "MA : PE*0.2+SE*0.8": "8.22"
+      },
+      "codigo": "0709.000.380-0 ",
+      "notas": {
+        "SE : SEGUNDA ENTREGA": "10.0",
+        "PO : PROVA OPTATIVA": "0.0",
+        "PE : PRIMEIRA ENTREGA": "10.0",
+        "MA : PE*0.2+SE*0.8": "10.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d2\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5529043",
+      "nome": "ESTUDO DIRIGIDO VIII AP 68  "
+    }
+  ],
+  "2014/2": [
+    {
+      "medias": {
+        "P1 : PROVA OBRIGATORIA 1": "4.54",
+        "PO : PROVA OPTATIVA": "1.09",
+        "T1 : TRABALHO 1": "6.13",
+        "P2 : PROVA OBRIGATORIA 2": "2.62",
+        "MA : (P1 * 0.35) + (P2 * 0.35) + (T1 * 0.3)": "4.58"
+      },
+      "codigo": "0703.000.885-6 ",
+      "notas": {
+        "P1 : PROVA OBRIGATORIA 1": "6.7",
+        "PO : PROVA OPTATIVA": "0.0",
+        "T1 : TRABALHO 1": "9.6",
+        "P2 : PROVA OBRIGATORIA 2": "3.2",
+        "MA : (P1 * 0.35) + (P2 * 0.35) + (T1 * 0.3)": "6.3"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d2\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5334901",
+      "nome": "ARQUITETURA DE COMPUTADORES I AP 68  "
+    },
+    {
+      "medias": {
+        "P2 : PROVA 2": "5.70",
+        "P1 : PROVA 1": "5.22",
+        "PO : PROVA OPTATIVA": "7.23",
+        "T : TRABALHO": "6.15",
+        "MA : 0.35 * P1 + 0.4 * P2 + 0.25 * T": "5.79"
+      },
+      "codigo": "0703.000.912-7 ",
+      "notas": {
+        "P2 : PROVA 2": "8.5",
+        "P1 : PROVA 1": "7.4",
+        "PO : PROVA OPTATIVA": "0.0",
+        "T : TRABALHO": "9.5",
+        "MA : 0.35 * P1 + 0.4 * P2 + 0.25 * T": "8.4"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d2\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5335681",
+      "nome": "FUNDAMENTOS DE TECNOLOGIA DA INFORMAÇÃO AP 68  "
+    },
+    {
+      "medias": {
+        "P3 : TERCEIRA AVALIAÇÃO": "4.04",
+        "SUB : AVALIAÇÃO SUBSTITUTIVA": "7.33",
+        "P1 : PRIMEIRA AVALIAÇÃO": "3.71",
+        "P2 : SEGUNDA AVALIAÇÃO": "3.88",
+        "MA : (P1+P2+P3)/3": "3.99"
+      },
+      "codigo": "0703.000.594-6 ",
+      "notas": {
+        "P3 : TERCEIRA AVALIAÇÃO": "8.1",
+        "SUB : AVALIAÇÃO SUBSTITUTIVA": "6.7",
+        "P1 : PRIMEIRA AVALIAÇÃO": "3.8",
+        "P2 : SEGUNDA AVALIAÇÃO": "7.1",
+        "MA : (P1+P2+P3)/3": "7.3"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d2\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5309422",
+      "nome": "CÁLCULO DIFERENCIAL E INTEGRAL I AP 102  "
+    },
+    {
+      "medias": {
+        "P2 : PROVA 2": "3.55",
+        "PS : PROVA SUBSTITUTIVA": "10.00",
+        "P1 : PROVA 1": "3.62",
+        "T2 : TRABALHO 2": "2.97",
+        "T1 : TRABALHO 1": "5.28",
+        "MA : (0.35*P1)+(0.4*P2)+(((T1+T2)/2)*0.25)": "3.94"
+      },
+      "codigo": "0703.000.593-8 ",
+      "notas": {
+        "P2 : PROVA 2": "10.0",
+        "PS : PROVA SUBSTITUTIVA": "0.0",
+        "P1 : PROVA 1": "3.5",
+        "T2 : TRABALHO 2": "7.5",
+        "T1 : TRABALHO 1": "9.6",
+        "MA : (0.35*P1)+(0.4*P2)+(((T1+T2)/2)*0.25)": "7.4"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d2\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5305898",
+      "nome": "ALGORITMOS E PROGRAMAÇÃO II AP 102  "
+    }
+  ],
+  "2018/1": [
+    {
+      "codigo": "0709.000.358-3 ",
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6371965",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO II MA 68  "
+    },
+    {
+      "codigo": "0709.000.359-1 ",
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6371962",
+      "nome": "ATIVIDADES COMPLEMENTARES MA 102  "
+    },
+    {
+      "codigo": "0709.000.352-4 ",
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6371963",
+      "nome": "ESTÁGIO OBRIGATÓRIO II MA 136  "
+    },
+    {
+      "medias": {
+        "P2 : PROVA 2": "0.00",
+        "TR : TRABALHO PRÁTICO": "0.00",
+        "MA : MP*0.8+TR*0.2": "2.12",
+        "P1 : PROVA 1": "5.20",
+        "PO : PROVA OPTATIVA": "0.00",
+        "MP : (P1+P2)/2": "2.63"
+      },
+      "codigo": "0709.000.309-5 ",
+      "notas": {
+        "P2 : PROVA 2": "0.0",
+        "TR : TRABALHO PRÁTICO": "0.0",
+        "MA : MP*0.8+TR*0.2": "3.0",
+        "P1 : PROVA 1": "7.3",
+        "PO : PROVA OPTATIVA": "0.0",
+        "MP : (P1+P2)/2": "3.7"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6371964",
+      "nome": "GESTÃO DE PROJETOS MA 68  "
+    },
+    {
+      "codigo": "0709.000.354-0 ",
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6383580",
+      "nome": "SEGURANÇA E AUDITORIA DE SISTEMAS MA 68  "
+    }
+  ],
+  "2017/2": [
+    {
+      "codigo": "0709.000.352-4 ",
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6371963",
+      "nome": "ESTÁGIO OBRIGATÓRIO II RP 136  "
+    },
+    {
+      "codigo": "0709.000.355-9 ",
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6218969",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO I AP 68  "
+    },
+    {
+      "medias": {
+        "P2 : PROVA 2": "5.80",
+        "MA : ((P1 * 0.35) + (P2 * 0.35) + (AT * 0.1) + (TB * 0.2))": "5.79",
+        "P1 : PROVA 1": "4.88",
+        "AT : ATIVIDADES": "4.80",
+        "PO : PROVA OPTATIVA": "10.00",
+        "TB : TRABALHO": "6.45"
+      },
+      "codigo": "0709.000.348-6 ",
+      "notas": {
+        "P2 : PROVA 2": "7.0",
+        "MA : ((P1 * 0.35) + (P2 * 0.35) + (AT * 0.1) + (TB * 0.2))": "8.2",
+        "P1 : PROVA 1": "2.5",
+        "AT : ATIVIDADES": "5.0",
+        "PO : PROVA OPTATIVA": "10.0",
+        "TB : TRABALHO": "8.5"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6218967",
+      "nome": "PROGRAMAÇÃO WEB II AP 68  "
+    },
+    {
+      "medias": {
+        "A2 : AVALIAÇÃO 2": "7.35",
+        "PS : PROVA SUBSTITUTIVA": "0.00",
+        "A3 : AVALIAÇÃO 3": "7.19",
+        "A1 : AVALIAÇÃO 1": "8.85",
+        "MA : (A1+A2)/2": "8.10"
+      },
+      "codigo": "0709.000.357-5 ",
+      "notas": {
+        "A2 : AVALIAÇÃO 2": "7.0",
+        "PS : PROVA SUBSTITUTIVA": "0.0",
+        "A3 : AVALIAÇÃO 3": "8.0",
+        "A1 : AVALIAÇÃO 1": "10.0",
+        "MA : (A1+A2)/2": "8.5"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6218968",
+      "nome": "EMPREENDEDORISMO AP 68  "
+    }
+  ],
+  "2017/1": [
+    {
+      "medias": {
+        "P2 : PROVA 2": "4.42",
+        "MA : ((P1 * 0.35) + (P2 * 0.35) + (AT * 0.1) + (TB * 0.2))": "5.94",
+        "P1 : PROVA 1": "6.49",
+        "AT : ATIVIDADES": "6.18",
+        "PO : PROVA OPTATIVA": "8.50",
+        "TB : TRABALHO": "6.00"
+      },
+      "codigo": "0709.000.343-5 ",
+      "notas": {
+        "P2 : PROVA 2": "7.0",
+        "MA : ((P1 * 0.35) + (P2 * 0.35) + (AT * 0.1) + (TB * 0.2))": "7.0",
+        "P1 : PROVA 1": "6.4",
+        "AT : ATIVIDADES": "6.0",
+        "PO : PROVA OPTATIVA": "0.0",
+        "TB : TRABALHO": "8.5"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6024349",
+      "nome": "PROGRAMAÇÃO WEB I AP 68  "
+    },
+    {
+      "codigo": "0709.000.355-9 ",
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6218969",
+      "nome": "TRABALHO DE CONCLUSÃO DE CURSO I RP 68  "
+    },
+    {
+      "medias": {
+        "T1 : T1": "8.56",
+        "P3 : P3": "6.83",
+        "P2 : P2": "8.24",
+        "MA : ((P1+P2+P3)/3)*0.7 + 0.3*((T1+T2)/2)": "7.92",
+        "PO : PO": "0.00",
+        "P1 : P1": "7.78",
+        "T2 : T2": "8.75"
+      },
+      "codigo": "0709.000.346-0 ",
+      "notas": {
+        "T1 : T1": "7.8",
+        "P3 : P3": "6.2",
+        "P2 : P2": "9.0",
+        "MA : ((P1+P2+P3)/3)*0.7 + 0.3*((T1+T2)/2)": "6.0",
+        "PO : PO": "0.0",
+        "P1 : P1": "5.3",
+        "T2 : T2": "0.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6024351",
+      "nome": "REDES DE COMPUTADORES II AP 68  "
+    },
+    {
+      "medias": {
+        "MA : (AT*0.3) + (PF*0.7)": "5.56",
+        "PO : PROVA OPTATIVA": "0.00",
+        "AT : MÉDIA DE ATIVIDADES": "4.14",
+        "PF : PROJETO FINAL": "6.14"
+      },
+      "codigo": "0709.000.392-3 ",
+      "notas": {
+        "MA : (AT*0.3) + (PF*0.7)": "7.9",
+        "PO : PROVA OPTATIVA": "0.0",
+        "AT : MÉDIA DE ATIVIDADES": "3.0",
+        "PF : PROJETO FINAL": "10.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6064591",
+      "nome": "LABORATÓRIO DE DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS AP 68  "
+    },
+    {
+      "medias": {
+        "MA : P1 * 0.2 + P2 * 0.3 + TT * 0.2 + AA * 0.3": "7.69",
+        "AA : ATIVIDADES SALA": "7.65",
+        "TT : TRABALHO": "7.97",
+        "P2 : AVALIAÇÃO 2": "7.71",
+        "P1 : AVALIAÇÃO 1": "7.41"
+      },
+      "codigo": "0709.000.353-2 ",
+      "notas": {
+        "MA : P1 * 0.2 + P2 * 0.3 + TT * 0.2 + AA * 0.3": "7.4",
+        "AA : ATIVIDADES SALA": "3.5",
+        "TT : TRABALHO": "10.0",
+        "P2 : AVALIAÇÃO 2": "9.0",
+        "P1 : AVALIAÇÃO 1": "8.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5992656",
+      "nome": "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO II AP 68  "
+    },
+    {
+      "medias": {
+        "P2 : P2": "4.95",
+        "MA : N": "5.50",
+        "N : ENADE-NORM": "5.50",
+        "PO : PO": "0.00",
+        "P1 : P1": "3.98"
+      },
+      "codigo": "0709.000.383-4 ",
+      "notas": {
+        "P2 : P2": "3.5",
+        "MA : N": "6.0",
+        "N : ENADE-NORM": "6.0",
+        "PO : PO": "0.0",
+        "P1 : P1": "6.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5992504",
+      "nome": "ESTUDO DIRIGIDO XI AP 68  "
+    },
+    {
+      "codigo": "0709.000.352-4 ",
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6371963",
+      "nome": "ESTÁGIO OBRIGATÓRIO II RP 136  "
+    },
+    {
+      "medias": {
+        "P3 : P3": "7.74",
+        "P2 : P2": "8.04",
+        "PO : PO": "0.00",
+        "P1 : P1": "8.03",
+        "MA : P1*0.4 + P2*0.2 + P3*0.4": "7.91"
+      },
+      "codigo": "0709.000.345-1 ",
+      "notas": {
+        "P3 : P3": "7.9",
+        "P2 : P2": "8.7",
+        "PO : PO": "0.0",
+        "P1 : P1": "7.2",
+        "MA : P1*0.4 + P2*0.2 + P3*0.4": "7.8"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d6024350",
+      "nome": "ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS AP 68  "
+    }
+  ],
+  "2016/2": [
+    {
+      "codigo": "0709.000.347-8 ",
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5946482",
+      "nome": "ESTÁGIO OBRIGATÓRIO I AP 136  "
+    },
+    {
+      "medias": {
+        "P2 : PROVA 2": "3.90",
+        "P1 : PROVA 1": "3.73",
+        "PO : PROVA OPTATIVA": "0.65",
+        "T : TRABALHO": "2.41",
+        "MA : (P1*0.3)+(P2*0.4)+(T*0.3)": "3.48"
+      },
+      "codigo": "0709.000.406-7 ",
+      "notas": {
+        "P2 : PROVA 2": "8.0",
+        "P1 : PROVA 1": "8.5",
+        "PO : PROVA OPTATIVA": "0.0",
+        "T : TRABALHO": "4.3",
+        "MA : (P1*0.3)+(P2*0.4)+(T*0.3)": "7.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5946481",
+      "nome": "TÓPICOS EM COMPUTAÇÃO AP 68  "
+    },
+    {
+      "medias": {
+        "P3 : PROVA 3": "3.08",
+        "P2 : PROVA 2": "2.69",
+        "P1 : PROVA 1": "4.76",
+        "MA : P1*0.25 + P2*0.25 + P3*0.25 + T*0.25": "3.61",
+        "OP : PROVA OPTATIVA": "6.30",
+        "T : EXERCICIOS PRATICOS": "3.38"
+      },
+      "codigo": "0703.000.909-7 ",
+      "notas": {
+        "P3 : PROVA 3": "6.6",
+        "P2 : PROVA 2": "7.2",
+        "P1 : PROVA 1": "8.0",
+        "MA : P1*0.25 + P2*0.25 + P3*0.25 + T*0.25": "6.0",
+        "OP : PROVA OPTATIVA": "0.0",
+        "T : EXERCICIOS PRATICOS": "2.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5946486",
+      "nome": "SISTEMA DE APOIO À DECISÃO AP 68  "
+    },
+    {
+      "medias": {
+        "S2 : SEMINÁRIO 2": "6.56",
+        "P3 : PROVA 3": "5.67",
+        "T4 : TRABALHO 4": "6.75",
+        "P2 : PROVA 2": "4.70",
+        "T5 : TRABALHO 5": "5.00",
+        "P1 : PROVA 1": "4.02",
+        "T2 : TRABALHO 2": "8.75",
+        "PO : PROVA OPTATIVA": "5.40",
+        "T3 : TRABALHO 3": "6.75",
+        "S1 : SEMINÁRIO 1": "7.44",
+        "NP : (P1+P2+P3)/3": "4.93",
+        "NS : (S1+S2)/2": "7.03",
+        "T6 : TRABALHO 6": "5.00",
+        "MA : 0.6*NP+0.3*NS+0.1*T": "5.75",
+        "T1 : TRABALHO 1": "8.75",
+        "T : (T1+T2+T3+T4+T5+T6)/6": "6.83"
+      },
+      "codigo": "0709.000.350-8 ",
+      "notas": {
+        "S2 : SEMINÁRIO 2": "9.0",
+        "P3 : PROVA 3": "5.8",
+        "T4 : TRABALHO 4": "9.0",
+        "P2 : PROVA 2": "5.4",
+        "T5 : TRABALHO 5": "0.0",
+        "P1 : PROVA 1": "2.6",
+        "T2 : TRABALHO 2": "10.0",
+        "PO : PROVA OPTATIVA": "0.0",
+        "T3 : TRABALHO 3": "9.0",
+        "S1 : SEMINÁRIO 1": "9.0",
+        "NP : (P1+P2+P3)/3": "4.6",
+        "NS : (S1+S2)/2": "9.0",
+        "T6 : TRABALHO 6": "0.0",
+        "MA : 0.6*NP+0.3*NS+0.1*T": "6.1",
+        "T1 : TRABALHO 1": "10.0",
+        "T : (T1+T2+T3+T4+T5+T6)/6": "6.3"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5946485",
+      "nome": "QUALIDADE DE SOFTWARE AP 68  "
+    },
+    {
+      "medias": {
+        "T4 : TRABALHO 4": "1.77",
+        "MA : 0.4*NPE+0.4*NPF+0.2*T": "6.81",
+        "T2 : TRABALHO 2": "8.46",
+        "NPO : PROVA OPTATIVA": "0.00",
+        "NPE : PROVA ESCRITA": "6.33",
+        "T3 : TRABALHO 3": "8.46",
+        "T : (T1+T2+T3+T4)/4": "6.80",
+        "NPF : PROJETO FINAL": "7.28",
+        "T1 : TRABALHO 1": "8.46"
+      },
+      "codigo": "0709.000.351-6 ",
+      "notas": {
+        "T4 : TRABALHO 4": "0.0",
+        "MA : 0.4*NPE+0.4*NPF+0.2*T": "7.4",
+        "T2 : TRABALHO 2": "10.0",
+        "NPO : PROVA OPTATIVA": "0.0",
+        "NPE : PROVA ESCRITA": "6.3",
+        "T3 : TRABALHO 3": "10.0",
+        "T : (T1+T2+T3+T4)/4": "7.5",
+        "NPF : PROJETO FINAL": "8.5",
+        "T1 : TRABALHO 1": "10.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5946483",
+      "nome": "INTERAÇÃO HUMANO-COMPUTADOR AP 68  "
+    },
+    {
+      "medias": {
+        "P2 : PROVA 2": "5.62",
+        "P1 : PROVA 1": "6.99",
+        "MA : (P1*0.2)+(P2*0.3)+(A*0.2)+(T*0.3)": "5.84",
+        "T : TRABALHO": "5.74",
+        "A : ARTIGO CIENTIFICO": "5.19"
+      },
+      "codigo": "0709.000.349-4 ",
+      "notas": {
+        "P2 : PROVA 2": "7.0",
+        "P1 : PROVA 1": "7.7",
+        "MA : (P1*0.2)+(P2*0.3)+(A*0.2)+(T*0.3)": "7.1",
+        "T : TRABALHO": "7.0",
+        "A : ARTIGO CIENTIFICO": "7.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5946484",
+      "nome": "GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO I AP 68  "
+    },
+    {
+      "medias": {
+        "P2 : SEGUNDA AVALIAÇÃO BIMESTRAL": "5.74",
+        "P1 : PRIMEIRA AVALIAÇÃO BIMESTRAL": "4.56",
+        "MA : (P1+P2)/2": "5.29",
+        "S1 : AVALIAÇÃO SUBSTITUTIVA": "7.00"
+      },
+      "codigo": "0709.000.180-7 ",
+      "notas": {
+        "P2 : SEGUNDA AVALIAÇÃO BIMESTRAL": "8.0",
+        "P1 : PRIMEIRA AVALIAÇÃO BIMESTRAL": "9.0",
+        "MA : (P1+P2)/2": "8.5",
+        "S1 : AVALIAÇÃO SUBSTITUTIVA": "0.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d1\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5965582",
+      "nome": "ESTRATÉGIA EMPRESARIAL AP 68  "
+    }
+  ],
+  "2014/1": [
+    {
+      "medias": {
+        "P1 : PRIMEIRA AVALIAÇÃO": "4.27",
+        "PO : PROVA OPTATIVA": "2.00",
+        "MA : 0.3*P1+0.4*P2+0.3*T": "4.17",
+        "P2 : SEGUNDA AVALIAÇÃO": "3.94",
+        "T : TRABALHO": "4.35"
+      },
+      "codigo": "0703.000.884-8 ",
+      "notas": {
+        "P1 : PRIMEIRA AVALIAÇÃO": "9.8",
+        "PO : PROVA OPTATIVA": "0.0",
+        "MA : 0.3*P1+0.4*P2+0.3*T": "8.9",
+        "P2 : SEGUNDA AVALIAÇÃO": "9.0",
+        "T : TRABALHO": "8.0"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d2\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5169719",
+      "nome": "FUNDAMENTOS DA TEORIA DA COMPUTAÇÃO AP 102  "
+    },
+    {
+      "medias": {
+        "P2 : PROVA 2": "2.32",
+        "P1 : PROVA 1": "2.65",
+        "MA : MP*0.8+T*0.2": "2.71",
+        "PO : PROVA OPTATIVA": "4.14",
+        "T : TRABALHO PRÁTICO": "3.12",
+        "MP : (P1+P2)/2": "2.61"
+      },
+      "codigo": "0703.000.591-1 ",
+      "notas": {
+        "P2 : PROVA 2": "6.9",
+        "P1 : PROVA 1": "6.7",
+        "MA : MP*0.8+T*0.2": "6.8",
+        "PO : PROVA OPTATIVA": "0.0",
+        "T : TRABALHO PRÁTICO": "7.0",
+        "MP : (P1+P2)/2": "6.8"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d2\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5169718",
+      "nome": "INTRODUÇÃO A SISTEMAS DIGITAIS AP 68  "
+    },
+    {
+      "medias": {
+        "P1 : PROVA 1": "3.45",
+        "PO : PROVA OPTATIVA": "7.00",
+        "S1 : SEMINÁRIO": "5.09",
+        "MA : (P1+S1)/2": "4.33"
+      },
+      "codigo": "0708.000.535-4 ",
+      "notas": {
+        "P1 : PROVA 1": "5.7",
+        "PO : PROVA OPTATIVA": "0.0",
+        "S1 : SEMINÁRIO": "9.5",
+        "MA : (P1+S1)/2": "7.6"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d2\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5169720",
+      "nome": "INTRODUÇÃO À ADMINISTRAÇÃO AP 68  "
+    },
+    {
+      "medias": {
+        "T : TRABALHOS": "2.19",
+        "PO : PROVA OPTATIVA": "1.60",
+        "P2 : PROVA TEÓRICA 2": "2.95",
+        "P1 : PROVA TEÓRICA 1": "3.39",
+        "MA : 0.35*P1 + 0.55*P2 + 0.1*T": "3.31"
+      },
+      "codigo": "0703.000.589-0 ",
+      "notas": {
+        "T : TRABALHOS": "4.0",
+        "PO : PROVA OPTATIVA": "8.0",
+        "P2 : PROVA TEÓRICA 2": "6.9",
+        "P1 : PROVA TEÓRICA 1": "8.4",
+        "MA : 0.35*P1 + 0.55*P2 + 0.1*T": "7.7"
+      },
+      "link": "https://siscad.ufms.br/titan.php?toSection\u003d14\u0026toAction\u003dview\u0026page\u003d2\u0026pesq0\u003d0\u0026pesq1\u003d\u0026pesq2\u003d\u0026itemId\u003d5169717",
+      "nome": "ALGORITMOS E PROGRAMAÇÃO I AP 136  "
+    }
+  ]
+}
